@@ -4,10 +4,10 @@
 
 ## Thông tin cá nhân
 
-- Họ và tên:
-- Mã học viên:
-- Nhóm:
-- Candidate problem nhóm chọn:
+- Họ và tên: Nguyễn Hữu Chương
+- Mã học viên: 2A202602601
+- Nhóm:Vanno
+- Candidate problem nhóm chọn:Tìm kiếm phòng học trong VinUni và tiện nghi xung quanh
 
 ---
 
@@ -17,21 +17,21 @@ Ghi việc cụ thể + kết quả cụ thể. Không ghi chung chung kiểu "t
 
 | Hoạt động | Tôi đã làm gì? (việc cụ thể) | Kết quả / ảnh hưởng tới nhóm |
 |---|---|---|
-| Scan cá nhân | | |
-| Pitch Problem Card | | |
-| Challenge bài của bạn khác | | |
-| Gom trùng / cluster | | |
-| Chọn candidate problem | | |
-| Validation / research | | |
-| Workflow nhóm | | |
-| Problem Statement | | |
-| Rule / Workflow / Agent | | |
-| Decision | | |
+| Scan cá nhân |Tìm kiếm và liệt kê 8 problems của bản thân |Nhóm có nhiều lựa chọn về problems |
+| Pitch Problem Card |Pitch Weekly Report |Bài được vào shortlist |
+| Challenge bài của bạn khác |Đưa ra góp ý, giải pháp |Thảo luận sôi nổi hơn |
+| Gom trùng / cluster |Cùng kiểm tra trùng với nhóm |Hoàn thành |
+| Chọn candidate problem |Trình bày problems, phản biện |Problem của bản thân được chọn |
+| Validation / research |Tìm kiếm thông tin, các sản phẩm hiện có |Build từ đầu dựa trên các nền tảng maps |
+| Workflow nhóm |Trình bày về workflow hiện tại cho nhóm, xin góp ý, bổ sung|Hoàn thiện |
+| Problem Statement |Trình bày problem cho mọi người |Ok |
+| Rule / Workflow / Agent |Thiết kế workflow ban đầu|Từ đó nhóm phát triển thêm |
+| Decision |Quyết định chọn agent|Cả team cùng đồng ý|
 
 **Dấu tay rõ nhất của tôi trong artifact cuối (1-2 câu):**
 
 ```text
-
+Nhóm quyết định chọn problem của tôi, nên tôi trình bày kĩ hơn về problem và workflow hiện tại để nhóm hiểu kĩ rồi từ đó phát triển lên.
 ```
 
 ---
@@ -40,13 +40,12 @@ Ghi việc cụ thể + kết quả cụ thể. Không ghi chung chung kiểu "t
 
 | Phase | Tôi dùng AI để làm gì? | AI hữu ích ở đâu? | AI sai / hời hợt ở đâu? | Tôi sửa gì bằng nhận định của mình? |
 |---|---|---|---|---|
-| Scan | | | | |
-| Problem Card | | | | |
-| Workflow | | | | |
-| Research | | | | |
-| Problem Statement | | | | |
-| Rule / Workflow / Agent | | | | |
-| Decision | | | | |
+| Scan |Tìm kiếm thêm các problesm|Cung cấp thêm nhiều thông tin hữu ích |Có nhiều thông tin không quan trọng |Chỉnh sửa prompt, chọn lọc câu trả lời |
+| Problem Card |Nhận xét các tiềm năng của các problems của tôi |Đưa ra các góc nhìn khác nhau |Có những nhận xét ok, nhưng mà cũng có những góc nhìn không hợp lý lắm |Tham khảo ý kiến AI, quyết định vẫn theo ý của bản thân. |
+| Workflow |Sinh ra workflow ban đầu |Có các bước cũng hợp lý |Có các bước chưa đúng với thực tế của tôi |Tham khảo các bước tôi cho là đúng, bổ sung các ý của bản thân |
+| Research |Tìm kiếm thông tin, sản phẩm tương tự |Cung cấp thông tin đa dạng |Nội dung rộng, mang tính tham khảo |Tham khảo nội dung, chỉnh sửa theo ý mình |
+| Problem Statement |Không dùng, thảo luận với nhóm để chọn ra đề tài | | | |
+
 
 > Nếu phase nào không dùng AI, ghi `Không dùng` và vì sao tự làm.
 
@@ -65,7 +64,7 @@ Chọn 3-4 câu trong 6 câu dưới để viết thành đoạn 8-12 câu (khô
 **Reflection:**
 
 ```text
-
+Problem tốt không phải là problem nghe AI nhất, mà là problem hiện tại của bản thân và mọi người xung quanh. Khi nghe các problems của các bạn khác, thì biết rằng 1 vài vấn đề mình cũng gặp như các bạn, tuy nhiên để build được sản phẩm thì khá trừu tượng và không có metrics để đánh giá, và có 1 vài chatbot AI đã phần nào hỗ trợ được việc đó. Tôi rất vui vì problems của mình cũng là pain point của nhiều bạn, và được chọn làm đề tài của cả nhóm, giải thích kĩ hơn về đề tài và workflow ban đầu, và cùng nhóm phát triển tiếp về ý tưởng. Khi viết Problem Statement thì cần xác định được boundary để biết rằng vấn đề nằm ở đâu, rõ ràng, rồi sau đó mới chọn metrics để đo lường, đánh giá kết quả của giải pháp.
 
 
 ```
